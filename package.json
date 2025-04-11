@@ -1,0 +1,17 @@
+{
+  "name": "codecoverage",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "c8": "^10.1.3"
+  }
+}
